@@ -1,3 +1,5 @@
+Link To Run: https://devamrendra.github.io/GuessTheWord/
+
 Guess The Word is an exciting and brain- teasing game that puts your vocabulary skills to the test. In this game, you will be presented with a jumbled word, and your task is to unscramble it within 10 chances. Each correct guess rewards you with 1 point, while an incorrect guess deducts 0.5 points from your score. Get ready to unleash your word wizardry and see how many points you can rack up!
 
 Gameplay:
